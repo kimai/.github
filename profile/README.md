@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Kimai is a free and open-source project time-tracker, built with PHP on top of Symfony (backend) and Tabler (frontend, bootstrap).
+  Kimai is a free and open-source project time-tracker, built with PHP on top of <a href="https://github.com/symfony/symfony">Symfony</a> and <a href="https://github.com/tabler/tabler">Tabler</a>.
 </p>
 
 <p align="center">
