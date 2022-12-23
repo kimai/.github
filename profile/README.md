@@ -20,4 +20,6 @@
   <a href="https://github.com/kevinpapst/kimai2">Source code</a>
   ·
   <a href="https://github.com/kimai/www.kimai.org">Website repo</a>
+  <br>
+  <a href="https://phpc.social/@kimai">Follow @ Mastodon</a>
 </p>
