@@ -11,10 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.kimai.org">Website</a> ·
-  <a href="https://www.kimai.cloud">SaaS Cloud</a> ·
-  <a href="https://github.com/kimai/kimai">Code</a> ·
-  <a href="https://github.com/kimai/images">Icons</a>
+  <a href="https://www.kimai.org">On-Premise</a> ·
+  <a href="https://www.kimai.cloud">Kimai Cloud (SaaS)</a>
   <br>  
   <br>
   <a href="https://phpc.social/@kimai" rel="me"><img alt="Follow at Mastodon" src="https://img.shields.io/badge/toot-%40kimai-8c8dff"></a>
