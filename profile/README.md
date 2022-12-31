@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to the Kimai community 👋</h1><br>
 
 <p align="center">
-  <a href="https://tabler.io/">
-    <img src="https://raw.githubusercontent.com/kimai/images/master/repository-header.png" alt="Kimai logo">
+  <a href="https://www.kimai.org/">
+    <img src="https://raw.githubusercontent.com/kimai/images/main/repository-header.png" alt="Kimai logo">
   </a>
 </p>
 
